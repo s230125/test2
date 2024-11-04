@@ -10,9 +10,9 @@ st.title('점수 예측 에이전트')
 st.subheader('모델 설명')
 st.write(' - 기계학습 알고리즘 : 로지스틱 회귀 ')
 st.write(' - 학습 데이터 출처 : https://www.kaggle.com/')
-st.write(' - 훈련    데이터 : *건')
-st.write(' - 테스트 데이터 : *건')
-st.write(' - 인공지능 모델 정확도 : ***')
+st.write(' - 훈련    데이터 : 70건')
+st.write(' - 테스트 데이터 : 30건')
+st.write(' - 인공지능 모델 정확도 : 0.95')
 
 # 3.데이터 시각화
 col1, col2, col3 = st.columns(3)  
